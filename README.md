@@ -1,7 +1,7 @@
 # inf03-Jan-25-react-remake
 
 ### Recreated a Polish INF.03 practical exam for computer science vocational students (11th grade) as a break from another project. 
-### Decided to remake it with React instead of Vanilla JS, to get better at the library. Focused on breaking the project up into components, and routing.
+### Decided to remake it with React instead of Vanilla JS, to get better at the library (mainly learn basic routing). Focused on breaking the project up into components, and routing.
 ---
 ### Not all parts of the exam requirements are followed to the letter. Most are. 
 ### Please do note, the exam sites aren't beautiful. They aren't meant to be.
